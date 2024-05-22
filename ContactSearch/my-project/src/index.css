@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+th{
+    border:2px solid black;
+}
+td{
+    border:2px solid black;
+    background:rgb(245, 243, 243);
+    padding: 10px;
+}
